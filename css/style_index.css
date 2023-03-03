@@ -281,43 +281,43 @@ header{
 
 #slider_photo1{
 	left:calc(50% - 1200px);
-	background:url(../img/slider1.jpg);
+	background:url(../img/slider1.JPG);
 	background-size:cover;
 }
 
 #slider_photo2{
 	left:calc(50% - 800px);
-	background:url(../img/slider2.jpg);
+	background:url(../img/slider2.JPG);
 	background-size:cover;
 }
 
 #slider_photo3{
 	left:calc(50% - 400px);
-	background:url(../img/slider3.jpg);
+	background:url(../img/slider3.JPG);
 	background-size:cover;
 }
 
 #slider_photo4{
 	left:50%;
-	background:url(../img/slider4.jpg);
+	background:url(../img/slider4.JPG);
 	background-size:cover;
 }
 
 #slider_photo5{
 	left:calc(50% + 400px);
-	background:url(../img/slider5.jpg);
+	background:url(../img/slider5.JPG);
 	background-size:cover;
 }
 
 #slider_photo6{
 	left:calc(50% + 800px);
-	background:url(../img/slider6.jpg);
+	background:url(../img/slider6.JPG);
 	background-size:cover;
 }
 
 #slider_photo7{
 	left:calc(50% + 1200px);
-	background:url(../img/slider7.jpg);
+	background:url(../img/slider7.JPG);
 	background-size:cover;
 }
 
