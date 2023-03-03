@@ -1,0 +1,2 @@
+# onePageSite
+template for site
